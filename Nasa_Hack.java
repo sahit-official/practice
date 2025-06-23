@@ -10,7 +10,7 @@ class Nasa_hack{
         int n=5;
         while(n>0){
 
-            System.out.println("Welcome to product team");
+            System.out.println("ByebYe youre goin to be benched");
         }
     }
 }
